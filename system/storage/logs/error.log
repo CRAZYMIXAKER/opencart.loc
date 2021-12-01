@@ -1,0 +1,3 @@
+2021-11-26 2:08:00 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\OpenServer\domains\opencart.loc\system\library\db\mysqli.php on line 7
+2021-11-26 2:08:11 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\OpenServer\domains\opencart.loc\system\library\db\mysqli.php on line 7
+2021-11-26 2:08:17 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\OpenServer\domains\opencart.loc\system\library\db\mysqli.php on line 7
